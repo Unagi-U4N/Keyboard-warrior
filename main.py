@@ -2,6 +2,10 @@
 # git commit -m "Commit message"
 # git push -u origin main
 
+""" minor change in row 902
+    Delete a row of input code
+"""
+
 import time
 import openpyxl
 import pandas as pd
@@ -119,6 +123,7 @@ def getprofile(id, sheet):
 
             # Loop through columns and append values to profile list
             for cols in sheet.iter_cols():
+                # Get cell coordinates "cols[row]"
                 x = cols[i].value
                 profile.append(x)
    
