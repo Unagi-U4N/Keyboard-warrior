@@ -1,3 +1,7 @@
+# git add "folder/filename"
+# git commit -m "Commit message"
+# git push -u origin main
+
 import time
 import openpyxl
 import pandas as pd
@@ -894,7 +898,6 @@ def mainmenu(floorgiven):
             os.system("cls")
             getchoice = True
             input = pyplus.inputYesNo("\nResetting the game will delete all your progress, however your gold and lvl will remain the same\nAre you sure you want to proceed? (Yes/No) \n>>> ", blank=False)
-            input = userinputstring("")
             if input == "yes":
 
                 # Update the values in profile list and excel sheet
