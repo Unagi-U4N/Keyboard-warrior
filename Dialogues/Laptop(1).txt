@@ -1,0 +1,46 @@
+
+( playername saw a faint light at the end of the underground tunnel, he then slowly approced it )
+( playername saw a thick book wandering alone, it looks like it is lost as well )
+playername : Hello.... hello? Can you hear me?
+???: Floccinaucinihilipilification
+playername : What?
+???: Pneumonoultramicroscopicsilicovolcanoconiosis
+playername : Sorry I can’t understand you.....
+???: Oppps sorry my bad, do you know where to get out?
+playername : No..... I'm lost as well, who are you by the way?
+Dictionary: Ohhh my bad, I'm Dictionary. 
+playername : I see I see
+( playername feels weird especially after the fight with Quiz, but he doesn't have a choice, both of them are lost )
+playername : I came from the overworld, But suddenly fell into this realm.
+Dictionary: Ohhhh you must be the Hero!!!
+playername: Hero?
+Dictionary: Yeahhhh!!!! Everybody knows you, You were the one who defeated Quiz right?
+playername : Yeah I did!
+Dictionary: Quiz was a terrible being, he always destroys our village, he kills innocent people like ants.
+( playername was happy he defeated Quiz, he was abit flattered after being praised )
+playername : It's really nothing...
+Dictionary: Thanks so much for helping us out!!!!
+Dictionary: Oh btw, there's someone at the end of the tunnel, I think he can help you out. But I need something in return...
+playername : Name it
+Dictionary: You see.... My legs are injured from Quiz's attack just now, Can you carry me with you?
+playername : Sure!!!
+( Both playername and Dictionary went to find that "person" )
+Type: Who is he?
+!Input Who is he?
+Dictionary: He... is a very strong enemy. Many people have lost to him. But if you do defeat him, he might give you some solutions.
+( playername and Dictionary meets a person )
+Person: Hi there, I am Professor Xavier, how may I help you?
+playername and Dictionary : We need your help to get out of here!
+Person: I see..... You need to first defeat a mysterious enemy, no one knows what he looks like, what he is, and where he is
+Person: However, you can go to Haji Tapah, FCI building, bakery... He was last seen in the near FCI
+Person: Can you help me take care of my bag, I need to go to the toilet
+Type : Sure 
+!Input Sure
+( playername help him keep the bag. )
+( Suddenly, the Laptop in the bag speaks: “Hey boy, nice to meet you.” )
+Type: Who is talking , where are you? 
+!Input Who is talking , where are you?
+Laptop: Don’t be scared, this is just a dream. I watched the whole time when you fought "him", it was very amazing. I admire you.
+Laptop: But, I cannot let you go first. You need to defeat me, I am not Calculator, I am not that easy to defeat....
+playername and Dictionary: Bring it on!!!
+!Game

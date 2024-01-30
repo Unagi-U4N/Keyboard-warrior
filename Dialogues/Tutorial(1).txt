@@ -1,0 +1,10 @@
+Welcome to Keyboard Warrior
+There are 5 floors in this game, each with a different enemy
+To progress up the floors, you have to encounter each enemy and challenge them to a typing game of speed
+Each enemies has its own weaknesses, turn those weaknesses into your attacks against them
+When the game starts, you will be given a time limit to type as many attack words as you can
+Each word has to be accurate, including space and capitals
+The enemies will also launch an attack on you, dealing you damage or healing themselves up
+Last one standing wins the game
+Let's test this out shall we?
+!Game

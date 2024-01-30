@@ -1,0 +1,20 @@
+Laptop: As promised, I will now let you go
+Laptop: Keep walking forward and you will see an elevator, press the this combination "1 4 6 2 6 1" and you will be carried back to the top
+playername & Dictionary: Thanks so much, it was a great fight with you
+Laptop: Your next enemy is Dictionary’s brother. Be extra careful with your journey playername, never be too comfortable, let that sink in
+( playername zoned out for a second, trying to understand what he meant )
+Dictionary: ( Interupts ) Erhem.... Should we go now playername ?
+( playername walks forward to find the elevator )
+playername : We'll be fine. Let's get this over with!
+Dictionary: Yeah I hope so too, I can't wait to see the daylight again
+( playername comes across the elevator, it was old and dusty )
+playername : This thing is creepy...
+Elevator: Please enter combination
+Combination:
+!Input 1 4 6 2 6 1
+( The elevator shakes vigorously, almost tripping playername, then it moves upward )
+playername : That worked
+Dictionary: Wohooooo!!!! Let's go partner!!!
+( Dictionary gives a high five to playername )
+( The elevator ascends through the ground, revealing a beautiful sunset )
+( Both playername and Dictionary escaped the underground )

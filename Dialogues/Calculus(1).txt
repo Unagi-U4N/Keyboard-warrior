@@ -1,0 +1,42 @@
+playername : I can't wait to get out of this nightmare!!!!
+Type: I am so excited
+!Input I am so excited
+playername : Where should we go now?
+Dictionary: He is always in the campus, either in learning point or He and She.
+Type: Alright lezzzz go
+!Input Alright lezzzz go
+Dictionary: Let's go buddy!!
+( playername & Dictionary decided to go to learning point first )
+( They arrive learning point but didn’t find him )
+Dictionary: Heyyy.... he's not here, shall we get a coffee first? I love coffee it makes me strong
+playername : Yeahhh let's get some before we find him
+( Both of you go to He and She and buy a cup of coffee )
+( You find a sit to sit down and enjoy your coffee, but accidentally bumped into someone )
+Type: I am very sorry
+!Input I am very sorry 
+???: Holy shit, why are you so stupid? Do you know who am I?
+playername : Urmmmmm.........
+Type: Who are you
+!Input Who are you 
+???: Me? I am the boss of this world... My name is calculus material
+Calculus Material: Coughhh...... I mean my brother is....... BUT IT DOESN'T MATTER
+playername : So...... You are useless huh.......
+Calculus Material: HOW DARE YOU FILTHY MORTAL!!!
+Caculus Material: THE BOSS OF THIS WORLD IS MY BROTHER!!! Are you afraid??? 
+playername : Afraid of what?
+Type: I have been looking for you for a long time
+!Input I have been looking for you for a long time
+Calculus Material: Why are you looking for me? Who are you.......
+( Calculus Material starts to get afraid and backs up as playername reveals his true identity ) 
+playername : My name is playername
+( Calculus Material coughs out his coffee and stutters )
+Calculus Material: You.... You a...are playername???? Th...the warrior?? 
+Type: Yes
+!Input Yes  
+Calculus Material: Ahh..... you spilled the coffee on my body just now, I want to go now. Bye.....
+( Calculus Material tries to run away from playername and Dictionary )
+( Both of you try to chase him down )
+Type: Why are you running?
+!Input Why are you running? 
+Calculus Material: 555, don’t slap me in the face.....
+!Game

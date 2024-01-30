@@ -1,0 +1,35 @@
+( playername is an ordinary student in MMU, he is, like most others, tired of university life, assignments everywhere )
+( Everyday is a tiring day, you just hope that one day all of these will finally come to an end )
+( These thoughts keep you awake, you can't fall asleep so you rolled over and over )
+( Finally when your brain starts to shut down and your consciousness fades... )
+*WAKE UP!!!
+playername : Whaaaa...? What's that?
+( You were woken up in a classroom full of students, as if you somehow teleported here )
+playername : A quiz? Seriously?
+Teacher: Quickly, type your name in the quiz header!
+!noinput
+Teacher: Question 1: If a tree falls in a dream and no one's asleep to hear it, does it wake the dreamer?
+playername : Uh whattt?
+Teacher: Incorrect! Time's up, dreamer!
+Teacher: Question 2: What colour is the sound of silence?
+playername :
+!noinput
+Teacher: Wrong! The answer is the taste of rainbows. Were you even listening to my class????
+Teacher: Question 3: How many dimensions exist in the dreamscape?
+playername : What the f....... 
+Teacher: It's beyond human comprehension MUAHAHAHAHAHHA!!!
+Teacher: (voice echoing) Wake up, dreamer.
+Type: What's happening?
+!Input What's happening?
+Student: (whispering) Can't you see? This isn't reality. It's a dream.
+playername : A dream?
+Student: You have to realize it's a dream to escape. Embrace the surreal, or it'll consume you.
+Type: How do I escape?
+!Input How do I escape?
+Student: There's a mysterious dictionary in the MMU library. Legends say it governs the dream realm. If you want to wake up, defeat it.
+playername : Alright thanks! See you later!
+Student: Heh.... heh......
+playername : ......
+( The student's eyes gleam as the dream transforms into a quiz paper, shocking but quite funny )
+Student: Of course, you will first have to get pass me!
+!Game
